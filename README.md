@@ -9,3 +9,6 @@
 ## mail ##
 
 * [mailtrap](https://mailtrap.io/) mail dev tool | github login
+
+## libri ##
+* [canva](https://www.canva.com/) copertine libri
