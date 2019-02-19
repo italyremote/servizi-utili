@@ -11,7 +11,8 @@
 * [mailtrap](https://mailtrap.io/) mail dev tool | github login
 
 ## proto ##
-* [zeit](https://zeit.co/)
+* [codepen](https://codepen.io/) showcase and project
+* [zeit](https://zeit.co/) fast online proto
 
 ## libri ##
 * [canva](https://www.canva.com/) copertine libri
