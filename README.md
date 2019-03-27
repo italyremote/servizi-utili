@@ -9,6 +9,7 @@
 ## mail ##
 
 * [mailtrap](https://mailtrap.io/) mail dev tool | github login
+* [now emails](https://github.com/tylersnyder/now-emails/)
 
 ## proto ##
 * [codepen](https://codepen.io/) showcase and project
