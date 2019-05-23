@@ -4,7 +4,7 @@
 
 * [GitLab](http://gitlab.com/) private repo free | dev ops | issue tracker
 * [GitHub](https://github.com) private repo free | issue tracker
-** [Dependabot](https://dependabot.com/) security update of dependencies | it open PR
+  * [Dependabot](https://dependabot.com/) security update of dependencies | it open PR
 * [BitBucket](http://bitbucket.org/) private repo free | dev ops | issue tracker | bot | trello integrated
 
 ## mail ##
