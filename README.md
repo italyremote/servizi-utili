@@ -29,3 +29,6 @@
 ### bastion ###
 * [bastillion](https://www.bastillion.io/)
 * [guacamole](https://guacamole.apache.org/)
+
+## licenses evaluation ##
+* [owasp](https://dependencytrack.org/)
