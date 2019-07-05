@@ -21,6 +21,9 @@
 ## libri ##
 * [canva](https://www.canva.com/) copertine libri
 
+## file transfer ##
+* [transfer.sh](https://transfer.sh/)
+
 ## microservice ##
 * [micro](https://micro.mu/)
 * [curl convert to code](https://curl.trillworks.com/) ([code](https://github.com/NickCarneiro/curlconverter))
