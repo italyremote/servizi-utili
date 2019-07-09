@@ -40,5 +40,6 @@
 ## licenses evaluation ##
 * [owasp](https://dependencytrack.org/)
 
-## ip manag ##
-* [ipam](https://phpipam.net/)
+## ipam ##
+* [netbox](https://github.com/netbox-community/netbox)
+* [phpipam](https://phpipam.net/)
