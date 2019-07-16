@@ -17,6 +17,7 @@
 ## proto ##
 * [codepen](https://codepen.io/) showcase and project
 * [zeit](https://zeit.co/) fast online proto
+* [httpbin](httpbin.org) A simple HTTP Request & Response Service
 
 ## libri ##
 * [canva](https://www.canva.com/) copertine libri
