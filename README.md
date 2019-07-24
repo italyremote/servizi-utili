@@ -35,6 +35,10 @@
 * [webhooksite](https://webhook.site) testing webhook easy
 
 ## devops ##
+## ci ##
+* [rundeck](https://www.rundeck.com/open-source) self service
+* [spinnaker](https://www.spinnaker.io/) spinnaker deploy
+
 ### bastion ###
 * [bastillion](https://www.bastillion.io/)
 * [guacamole](https://guacamole.apache.org/)
