@@ -1,5 +1,8 @@
 # Servizi utili per i freelancer #
 
+## vat & other ##
+* [vat](https://jsonvat.com/) europe vat
+
 ## repository ##
 
 * [GitLab](http://gitlab.com/) private repo free | dev ops | issue tracker
