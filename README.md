@@ -1,7 +1,7 @@
 # Servizi utili per i freelancer #
 
 ## vat & other ##
-* [vat](https://jsonvat.com/) europe vat
+* [vat](https://jsonvat.com/) europe vat in json
 
 ## repository ##
 
