@@ -2,6 +2,7 @@
 
 ## vat & other ##
 * [vat](https://jsonvat.com/) europe vat in json
+* [bi](https://github.com/shzlw/poli) bi fast
 
 ## repository ##
 
