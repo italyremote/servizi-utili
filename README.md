@@ -42,9 +42,12 @@
 * [webhooksite](https://webhook.site) testing webhook easy
 
 ## devops ##
-## ci ##
+### ci ###
 * [rundeck](https://www.rundeck.com/open-source) self service
 * [spinnaker](https://www.spinnaker.io/) spinnaker deploy
+
+### dns ###
+* [DNSmap](https://dnsmap.io/)
 
 ### bastion ###
 * [bastillion](https://www.bastillion.io/)
