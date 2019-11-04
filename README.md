@@ -3,6 +3,7 @@
 ## vat & other ##
 * [vat](https://jsonvat.com/) europe vat in json
 * [bi](https://github.com/shzlw/poli) bi fast
+* [$change](https://fixer.io/) change $ vs other fiat money
 
 ## repository ##
 
